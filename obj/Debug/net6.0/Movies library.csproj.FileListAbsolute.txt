@@ -1,0 +1,17 @@
+/Users/yuangao/Documents/WCTC/Net database/Movies library/bin/Debug/net6.0/Movies library
+/Users/yuangao/Documents/WCTC/Net database/Movies library/bin/Debug/net6.0/Movies library.deps.json
+/Users/yuangao/Documents/WCTC/Net database/Movies library/bin/Debug/net6.0/Movies library.runtimeconfig.json
+/Users/yuangao/Documents/WCTC/Net database/Movies library/bin/Debug/net6.0/Movies library.dll
+/Users/yuangao/Documents/WCTC/Net database/Movies library/bin/Debug/net6.0/Movies library.pdb
+/Users/yuangao/Documents/WCTC/Net database/Movies library/bin/Debug/net6.0/NLog.dll
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/Movies library.csproj.AssemblyReference.cache
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/Movies library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/Movies library.AssemblyInfoInputs.cache
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/Movies library.AssemblyInfo.cs
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/Movies library.csproj.CoreCompileInputs.cache
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/Movies library.csproj.CopyComplete
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/Movies library.dll
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/refint/Movies library.dll
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/Movies library.pdb
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/Movies library.genruntimeconfig.cache
+/Users/yuangao/Documents/WCTC/Net database/Movies library/obj/Debug/net6.0/ref/Movies library.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CDaD+HizYeCPVopjXaWxiFFhazdK2YBmvD1wq5adbTEfCQCDPMTPsLZjki9FSe/aI4HBjSSi0/FgPEKUxPFMgg==",
+  "success": true,
+  "projectFilePath": "/Users/yuangao/Documents/WCTC/Net database/Movies library/Movies library.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuangao/.nuget/packages/nlog/5.1.1/nlog.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
